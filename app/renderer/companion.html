@@ -1,0 +1,19 @@
+<!doctype html><html lang="zh-CN"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1"><meta http-equiv="Content-Security-Policy" content="default-src 'self'; script-src 'self'; style-src 'self'; connect-src 'none'; img-src 'self'"><title>我在这里</title><link rel="stylesheet" href="companion.css"></head>
+<body><main>
+<header><span class="eyebrow">HERE · 我在这里</span><h1>留句话给你。</h1><div class="connection-line"><span id="connection-status" role="status" aria-live="polite">正在读取连接…</span><button id="test" type="button" class="text-button" hidden>重新连接</button></div><p id="connection-detail" class="muted"></p></header>
+<section id="welcome" hidden><div class="welcome-mark" aria-hidden="true">♡</div><h2>让两边的小伙伴，连在一起。</h2><button id="connect" type="button" class="primary">导入连接文件</button><p class="muted">第一次连接时导入一次就好。</p></section>
+<section id="daily" hidden>
+<div class="peer"><span>对方此刻</span><p id="peer-status">还没有分享状态</p></div>
+<section id="sender" hidden>
+<form id="message-form"><label for="message">想说的话</label><textarea id="message" maxlength="120" rows="3" placeholder="我在看书，路过来看看你。"></textarea><div class="send-row"><span id="message-count" class="muted">0 / 120</span><button id="send-message">送过去</button></div>
+<details id="message-options"><summary>消息停留时间</summary><div class="time-control"><input id="message-duration" type="number" min="1" step="1" value="10" required aria-label="消息保留时长"><select id="message-unit" aria-label="消息保留时间单位"><option value="1">秒</option><option value="60" selected>分钟</option><option value="3600">小时</option><option value="86400">天</option></select></div></details></form>
+<details class="sharing"><summary>分享此刻，或送个小动作</summary>
+<form id="status-form"><label for="status">我现在在……</label><input id="status" maxlength="24" placeholder="看书 / 工作 / 想你"><div class="row"><div class="time-control"><input id="status-duration" type="number" min="1" step="1" value="1" required aria-label="状态保留时长"><select id="status-unit" aria-label="状态保留时间单位"><option value="1">秒</option><option value="60">分钟</option><option value="3600" selected>小时</option><option value="86400">天</option></select></div><button type="button" id="clear-status" class="subtle">清除</button><button id="send-status">分享</button></div></form>
+<div class="actions"><button type="button" data-action="wave">👋 挥挥手</button><button type="button" data-action="heart">♡ 送颗心</button><button type="button" data-action="sparkle">✦ 一点星光</button></div></details>
+<p class="footnote">发送成功表示已送到中转，不代表对方在线或已读。</p>
+</section>
+<section id="receiver" hidden><div class="receiver-card"><h2>有人在另一边陪着你。</h2><p>收到的话会在桌宠旁轻轻出现。</p><p class="muted">当前服务只支持单向展示；服务更新后即可互发。</p></div></section>
+</section>
+<p id="feedback" role="status" aria-live="polite"></p>
+<details id="advanced"><summary>连接设置</summary><div class="settings-tools"><button id="import" type="button" class="subtle">更换连接文件</button><button id="disconnect" type="button" class="text-button">断开并移除连接</button></div><details id="settings"><summary>手动设置</summary><form id="config-form"><label for="role">连接身份</label><select id="role"><option value="sender">我的连接</option><option value="receiver">对方的连接</option></select><label for="url">连接地址</label><input id="url" type="url" required placeholder="https://你的中转服务地址"><label for="key">配对密钥</label><input id="key" type="password" autocomplete="off" placeholder="填写这台电脑对应的密钥"><button class="save">保存并连接</button></form></details></details>
+</main><script src="companion-ui.js"></script></body></html>

@@ -1,0 +1,64 @@
+{
+  "source": "original.gif",
+  "width": 437,
+  "height": 439,
+  "directions": {
+    "right": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "left": [
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15
+    ]
+  },
+  "originalDurations": [
+    150,
+    150,
+    150,
+    150,
+    150,
+    150,
+    150,
+    150,
+    150,
+    150,
+    150,
+    150,
+    150,
+    150,
+    150,
+    150
+  ],
+  "durations": [
+    150,
+    150,
+    150,
+    150,
+    150,
+    80,
+    60,
+    150,
+    150,
+    150,
+    150,
+    150,
+    150,
+    80,
+    60,
+    150
+  ],
+  "note": "0-based frame indices. Only frame durations changed. Frames 6/7 and 14/15 recover faster; neutral frame hold is preserved."
+}

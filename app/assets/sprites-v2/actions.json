@@ -1,0 +1,1825 @@
+{
+  "reference": "../frames/idle3_1.png",
+  "actions": {
+    "kiss": {
+      "title": "白袜碎花裙 · 飞吻",
+      "file": "daisy-socks-kiss-stretch-v31.png",
+      "frames": [
+        {
+          "x": 0,
+          "y": 0,
+          "width": 365,
+          "height": 512,
+          "footCenter": 245.0,
+          "headTop": 10,
+          "bottom": 502
+        },
+        {
+          "x": 365,
+          "y": 0,
+          "width": 343,
+          "height": 512,
+          "footCenter": 206.5,
+          "headTop": 11,
+          "bottom": 502
+        },
+        {
+          "x": 708,
+          "y": 0,
+          "width": 374,
+          "height": 512,
+          "footCenter": 215.5,
+          "headTop": 14,
+          "bottom": 502
+        },
+        {
+          "x": 1082,
+          "y": 0,
+          "width": 454,
+          "height": 512,
+          "footCenter": 191.0,
+          "headTop": 12,
+          "bottom": 502
+        },
+        {
+          "x": 0,
+          "y": 512,
+          "width": 365,
+          "height": 512,
+          "footCenter": 244.5,
+          "headTop": 4,
+          "bottom": 497
+        },
+        {
+          "x": 365,
+          "y": 512,
+          "width": 343,
+          "height": 512,
+          "footCenter": 218.5,
+          "headTop": 6,
+          "bottom": 497
+        },
+        {
+          "x": 708,
+          "y": 512,
+          "width": 374,
+          "height": 512,
+          "footCenter": 217.5,
+          "headTop": 10,
+          "bottom": 497
+        },
+        {
+          "x": 1082,
+          "y": 512,
+          "width": 454,
+          "height": 512,
+          "footCenter": 219.0,
+          "headTop": 4,
+          "bottom": 497
+        }
+      ],
+      "sequence": [
+        {
+          "frame": 0,
+          "ms": 280
+        },
+        {
+          "frame": 1,
+          "ms": 300
+        },
+        {
+          "frame": 2,
+          "ms": 650
+        },
+        {
+          "frame": 1,
+          "ms": 180
+        },
+        {
+          "frame": 0,
+          "ms": 900
+        }
+      ]
+    },
+    "wave": {
+      "title": "白袜碎花裙 · 挥手",
+      "file": "daisy-socks-idle-wave-v31.png",
+      "frames": [
+        {
+          "x": 114,
+          "y": 0,
+          "width": 328,
+          "height": 512,
+          "footCenter": 164,
+          "headTop": 13,
+          "bottom": 499
+        },
+        {
+          "x": 441,
+          "y": 0,
+          "width": 328,
+          "height": 512,
+          "footCenter": 164,
+          "headTop": 13,
+          "bottom": 499
+        },
+        {
+          "x": 765,
+          "y": 0,
+          "width": 328,
+          "height": 512,
+          "footCenter": 164,
+          "headTop": 13,
+          "bottom": 499
+        },
+        {
+          "x": 1089,
+          "y": 0,
+          "width": 328,
+          "height": 512,
+          "footCenter": 164,
+          "headTop": 13,
+          "bottom": 499
+        },
+        {
+          "x": 114,
+          "y": 512,
+          "width": 328,
+          "height": 512,
+          "footCenter": 164,
+          "headTop": 12,
+          "bottom": 498
+        },
+        {
+          "x": 441,
+          "y": 512,
+          "width": 328,
+          "height": 512,
+          "footCenter": 164,
+          "headTop": 12,
+          "bottom": 498
+        },
+        {
+          "x": 765,
+          "y": 512,
+          "width": 328,
+          "height": 512,
+          "footCenter": 164,
+          "headTop": 12,
+          "bottom": 498
+        },
+        {
+          "x": 1089,
+          "y": 512,
+          "width": 328,
+          "height": 512,
+          "footCenter": 164,
+          "headTop": 12,
+          "bottom": 498
+        }
+      ],
+      "sequence": [
+        {
+          "frame": 0,
+          "ms": 200
+        },
+        {
+          "frame": 4,
+          "ms": 180
+        },
+        {
+          "frame": 5,
+          "ms": 220
+        },
+        {
+          "frame": 6,
+          "ms": 220
+        },
+        {
+          "frame": 7,
+          "ms": 220
+        },
+        {
+          "frame": 6,
+          "ms": 220
+        },
+        {
+          "frame": 7,
+          "ms": 220
+        },
+        {
+          "frame": 5,
+          "ms": 180
+        },
+        {
+          "frame": 4,
+          "ms": 180
+        },
+        {
+          "frame": 0,
+          "ms": 250
+        }
+      ]
+    },
+    "stretch": {
+      "title": "白袜碎花裙 · 伸懒腰",
+      "file": "daisy-socks-kiss-stretch-v31.png",
+      "frames": [
+        {
+          "x": 0,
+          "y": 0,
+          "width": 365,
+          "height": 512,
+          "footCenter": 245.0,
+          "headTop": 10,
+          "bottom": 502
+        },
+        {
+          "x": 365,
+          "y": 0,
+          "width": 343,
+          "height": 512,
+          "footCenter": 206.5,
+          "headTop": 11,
+          "bottom": 502
+        },
+        {
+          "x": 708,
+          "y": 0,
+          "width": 374,
+          "height": 512,
+          "footCenter": 215.5,
+          "headTop": 14,
+          "bottom": 502
+        },
+        {
+          "x": 1082,
+          "y": 0,
+          "width": 454,
+          "height": 512,
+          "footCenter": 191.0,
+          "headTop": 12,
+          "bottom": 502
+        },
+        {
+          "x": 0,
+          "y": 512,
+          "width": 365,
+          "height": 512,
+          "footCenter": 244.5,
+          "headTop": 4,
+          "bottom": 497
+        },
+        {
+          "x": 365,
+          "y": 512,
+          "width": 343,
+          "height": 512,
+          "footCenter": 218.5,
+          "headTop": 6,
+          "bottom": 497
+        },
+        {
+          "x": 708,
+          "y": 512,
+          "width": 374,
+          "height": 512,
+          "footCenter": 217.5,
+          "headTop": 10,
+          "bottom": 497
+        },
+        {
+          "x": 1082,
+          "y": 512,
+          "width": 454,
+          "height": 512,
+          "footCenter": 219.0,
+          "headTop": 4,
+          "bottom": 497
+        }
+      ],
+      "sequence": [
+        {
+          "frame": 4,
+          "ms": 200
+        },
+        {
+          "frame": 5,
+          "ms": 250
+        },
+        {
+          "frame": 6,
+          "ms": 400
+        },
+        {
+          "frame": 7,
+          "ms": 900
+        },
+        {
+          "frame": 6,
+          "ms": 300
+        },
+        {
+          "frame": 5,
+          "ms": 250
+        },
+        {
+          "frame": 4,
+          "ms": 300
+        }
+      ]
+    },
+    "typing": {
+      "title": "绿上衣 · 打字和思考",
+      "file": "typing-green-v10.png",
+      "frames": [
+        {
+          "x": 0,
+          "y": 0,
+          "width": 679,
+          "height": 724,
+          "footCenter": 350,
+          "headTop": 13,
+          "bottom": 714
+        },
+        {
+          "x": 679,
+          "y": 0,
+          "width": 679,
+          "height": 724,
+          "footCenter": 350,
+          "headTop": 13,
+          "bottom": 714
+        },
+        {
+          "x": 1358,
+          "y": 0,
+          "width": 679,
+          "height": 724,
+          "footCenter": 350,
+          "headTop": 13,
+          "bottom": 714
+        }
+      ],
+      "sequence": [
+        {
+          "frame": 0,
+          "ms": 150,
+          "phase": "typing"
+        },
+        {
+          "frame": 1,
+          "ms": 120,
+          "phase": "typing"
+        },
+        {
+          "frame": 2,
+          "ms": 190,
+          "phase": "typing"
+        },
+        {
+          "frame": 1,
+          "ms": 110,
+          "phase": "typing"
+        },
+        {
+          "frame": 0,
+          "ms": 160,
+          "phase": "typing"
+        },
+        {
+          "frame": 1,
+          "ms": 240,
+          "phase": "typing"
+        },
+        {
+          "frame": 2,
+          "ms": 130,
+          "phase": "typing"
+        },
+        {
+          "frame": 1,
+          "ms": 180,
+          "phase": "typing"
+        },
+        {
+          "frame": 0,
+          "ms": 120,
+          "phase": "typing"
+        },
+        {
+          "frame": 1,
+          "ms": 210,
+          "phase": "typing"
+        },
+        {
+          "frame": 0,
+          "ms": 1100,
+          "phase": "thinking"
+        },
+        {
+          "frame": 0,
+          "ms": 180,
+          "phase": "typing"
+        },
+        {
+          "frame": 1,
+          "ms": 140,
+          "phase": "typing"
+        },
+        {
+          "frame": 2,
+          "ms": 220,
+          "phase": "typing"
+        },
+        {
+          "frame": 1,
+          "ms": 120,
+          "phase": "typing"
+        },
+        {
+          "frame": 0,
+          "ms": 160,
+          "phase": "typing"
+        },
+        {
+          "frame": 1,
+          "ms": 190,
+          "phase": "typing"
+        },
+        {
+          "frame": 2,
+          "ms": 130,
+          "phase": "typing"
+        },
+        {
+          "frame": 1,
+          "ms": 240,
+          "phase": "typing"
+        },
+        {
+          "frame": 0,
+          "ms": 150,
+          "phase": "typing"
+        },
+        {
+          "frame": 1,
+          "ms": 110,
+          "phase": "typing"
+        },
+        {
+          "frame": 2,
+          "ms": 180,
+          "phase": "typing"
+        },
+        {
+          "frame": 1,
+          "ms": 220,
+          "phase": "typing"
+        },
+        {
+          "frame": 0,
+          "ms": 140,
+          "phase": "typing"
+        },
+        {
+          "frame": 1,
+          "ms": 170,
+          "phase": "typing"
+        },
+        {
+          "frame": 2,
+          "ms": 120,
+          "phase": "typing"
+        },
+        {
+          "frame": 1,
+          "ms": 210,
+          "phase": "typing"
+        },
+        {
+          "frame": 0,
+          "ms": 2400,
+          "phase": "thinking"
+        },
+        {
+          "frame": 0,
+          "ms": 220,
+          "phase": "typing"
+        },
+        {
+          "frame": 1,
+          "ms": 150,
+          "phase": "typing"
+        },
+        {
+          "frame": 2,
+          "ms": 170,
+          "phase": "typing"
+        },
+        {
+          "frame": 1,
+          "ms": 130,
+          "phase": "typing"
+        },
+        {
+          "frame": 0,
+          "ms": 200,
+          "phase": "typing"
+        },
+        {
+          "frame": 1,
+          "ms": 160,
+          "phase": "typing"
+        },
+        {
+          "frame": 0,
+          "ms": 3800,
+          "phase": "thinking"
+        },
+        {
+          "frame": 0,
+          "ms": 130,
+          "phase": "typing"
+        },
+        {
+          "frame": 1,
+          "ms": 190,
+          "phase": "typing"
+        },
+        {
+          "frame": 2,
+          "ms": 110,
+          "phase": "typing"
+        },
+        {
+          "frame": 1,
+          "ms": 160,
+          "phase": "typing"
+        },
+        {
+          "frame": 0,
+          "ms": 230,
+          "phase": "typing"
+        },
+        {
+          "frame": 1,
+          "ms": 140,
+          "phase": "typing"
+        },
+        {
+          "frame": 2,
+          "ms": 180,
+          "phase": "typing"
+        },
+        {
+          "frame": 1,
+          "ms": 120,
+          "phase": "typing"
+        },
+        {
+          "frame": 0,
+          "ms": 210,
+          "phase": "typing"
+        },
+        {
+          "frame": 1,
+          "ms": 150,
+          "phase": "typing"
+        },
+        {
+          "frame": 2,
+          "ms": 170,
+          "phase": "typing"
+        },
+        {
+          "frame": 1,
+          "ms": 130,
+          "phase": "typing"
+        },
+        {
+          "frame": 0,
+          "ms": 1800,
+          "phase": "thinking"
+        }
+      ]
+    },
+    "chin": {
+      "title": "绿上衣 · 托腮眨眼",
+      "file": "green-chin-v20.png",
+      "frames": [
+        {
+          "x": 0,
+          "y": 0,
+          "width": 679,
+          "height": 724,
+          "footCenter": 350,
+          "headTop": 13,
+          "bottom": 714
+        },
+        {
+          "x": 724,
+          "y": 0,
+          "width": 679,
+          "height": 724,
+          "footCenter": 350,
+          "headTop": 13,
+          "bottom": 714
+        },
+        {
+          "x": 1448,
+          "y": 0,
+          "width": 679,
+          "height": 724,
+          "footCenter": 350,
+          "headTop": 13,
+          "bottom": 714
+        }
+      ],
+      "sequence": [
+        {
+          "frame": 0,
+          "ms": 3400
+        },
+        {
+          "frame": 1,
+          "ms": 80
+        },
+        {
+          "frame": 2,
+          "ms": 110
+        },
+        {
+          "frame": 1,
+          "ms": 80
+        },
+        {
+          "frame": 0,
+          "ms": 2300
+        }
+      ],
+      "fixedBase": true,
+      "frameOffsets": [
+        0,
+        45,
+        45
+      ],
+      "blinkRegions": [
+        [
+          0.5051546391752577,
+          0.30662983425414364,
+          0.035346097201767304,
+          0.03591160220994475
+        ],
+        [
+          0.6318114874815906,
+          0.3052486187845304,
+          0.036818851251840944,
+          0.03729281767955801
+        ]
+      ]
+    },
+    "greyidle": {
+      "title": "灰套装 · 待机眨眼",
+      "file": "grey-idle-wave.png",
+      "frames": [
+        {
+          "x": 0,
+          "y": 0,
+          "width": 393,
+          "height": 512,
+          "footCenter": 275.5,
+          "headTop": 12,
+          "bottom": 500
+        },
+        {
+          "x": 393,
+          "y": 0,
+          "width": 327,
+          "height": 512,
+          "footCenter": 209.5,
+          "headTop": 12,
+          "bottom": 500
+        },
+        {
+          "x": 720,
+          "y": 0,
+          "width": 362,
+          "height": 512,
+          "footCenter": 211.5,
+          "headTop": 12,
+          "bottom": 500
+        },
+        {
+          "x": 1082,
+          "y": 0,
+          "width": 454,
+          "height": 512,
+          "footCenter": 177.5,
+          "headTop": 12,
+          "bottom": 500
+        },
+        {
+          "x": 0,
+          "y": 512,
+          "width": 393,
+          "height": 512,
+          "footCenter": 276.0,
+          "headTop": 4,
+          "bottom": 496
+        },
+        {
+          "x": 393,
+          "y": 512,
+          "width": 327,
+          "height": 512,
+          "footCenter": 211.0,
+          "headTop": 4,
+          "bottom": 496
+        },
+        {
+          "x": 720,
+          "y": 512,
+          "width": 362,
+          "height": 512,
+          "footCenter": 212.5,
+          "headTop": 4,
+          "bottom": 496
+        },
+        {
+          "x": 1082,
+          "y": 512,
+          "width": 454,
+          "height": 512,
+          "footCenter": 178.5,
+          "headTop": 4,
+          "bottom": 496
+        }
+      ],
+      "sequence": [
+        {
+          "frame": 0,
+          "ms": 3500
+        },
+        {
+          "frame": 1,
+          "ms": 90
+        },
+        {
+          "frame": 2,
+          "ms": 100
+        },
+        {
+          "frame": 1,
+          "ms": 90
+        },
+        {
+          "frame": 3,
+          "ms": 1800
+        }
+      ]
+    },
+    "greywave": {
+      "title": "灰套装 · 挥手",
+      "file": "grey-idle-wave.png",
+      "frames": [
+        {
+          "x": 0,
+          "y": 0,
+          "width": 393,
+          "height": 512,
+          "footCenter": 275.5,
+          "headTop": 12,
+          "bottom": 500
+        },
+        {
+          "x": 393,
+          "y": 0,
+          "width": 327,
+          "height": 512,
+          "footCenter": 209.5,
+          "headTop": 12,
+          "bottom": 500
+        },
+        {
+          "x": 720,
+          "y": 0,
+          "width": 362,
+          "height": 512,
+          "footCenter": 211.5,
+          "headTop": 12,
+          "bottom": 500
+        },
+        {
+          "x": 1082,
+          "y": 0,
+          "width": 454,
+          "height": 512,
+          "footCenter": 177.5,
+          "headTop": 12,
+          "bottom": 500
+        },
+        {
+          "x": 0,
+          "y": 512,
+          "width": 393,
+          "height": 512,
+          "footCenter": 276.0,
+          "headTop": 4,
+          "bottom": 496
+        },
+        {
+          "x": 393,
+          "y": 512,
+          "width": 327,
+          "height": 512,
+          "footCenter": 211.0,
+          "headTop": 4,
+          "bottom": 496
+        },
+        {
+          "x": 720,
+          "y": 512,
+          "width": 362,
+          "height": 512,
+          "footCenter": 212.5,
+          "headTop": 4,
+          "bottom": 496
+        },
+        {
+          "x": 1082,
+          "y": 512,
+          "width": 454,
+          "height": 512,
+          "footCenter": 178.5,
+          "headTop": 4,
+          "bottom": 496
+        }
+      ],
+      "sequence": [
+        {
+          "frame": 0,
+          "ms": 200
+        },
+        {
+          "frame": 4,
+          "ms": 180
+        },
+        {
+          "frame": 5,
+          "ms": 220
+        },
+        {
+          "frame": 6,
+          "ms": 220
+        },
+        {
+          "frame": 7,
+          "ms": 220
+        },
+        {
+          "frame": 6,
+          "ms": 220
+        },
+        {
+          "frame": 7,
+          "ms": 220
+        },
+        {
+          "frame": 5,
+          "ms": 180
+        },
+        {
+          "frame": 4,
+          "ms": 180
+        },
+        {
+          "frame": 0,
+          "ms": 250
+        }
+      ]
+    },
+    "greykiss": {
+      "title": "灰套装 · 飞吻",
+      "file": "grey-kiss-stretch.png",
+      "frames": [
+        {
+          "x": 0,
+          "y": 0,
+          "width": 365,
+          "height": 512,
+          "footCenter": 245.0,
+          "headTop": 10,
+          "bottom": 502
+        },
+        {
+          "x": 365,
+          "y": 0,
+          "width": 343,
+          "height": 512,
+          "footCenter": 206.5,
+          "headTop": 11,
+          "bottom": 502
+        },
+        {
+          "x": 708,
+          "y": 0,
+          "width": 374,
+          "height": 512,
+          "footCenter": 215.5,
+          "headTop": 14,
+          "bottom": 502
+        },
+        {
+          "x": 1082,
+          "y": 0,
+          "width": 454,
+          "height": 512,
+          "footCenter": 191.0,
+          "headTop": 12,
+          "bottom": 502
+        },
+        {
+          "x": 0,
+          "y": 512,
+          "width": 365,
+          "height": 512,
+          "footCenter": 244.5,
+          "headTop": 4,
+          "bottom": 497
+        },
+        {
+          "x": 365,
+          "y": 512,
+          "width": 343,
+          "height": 512,
+          "footCenter": 218.5,
+          "headTop": 6,
+          "bottom": 497
+        },
+        {
+          "x": 708,
+          "y": 512,
+          "width": 374,
+          "height": 512,
+          "footCenter": 217.5,
+          "headTop": 10,
+          "bottom": 497
+        },
+        {
+          "x": 1082,
+          "y": 512,
+          "width": 454,
+          "height": 512,
+          "footCenter": 219.0,
+          "headTop": 4,
+          "bottom": 497
+        }
+      ],
+      "sequence": [
+        {
+          "frame": 0,
+          "ms": 280
+        },
+        {
+          "frame": 1,
+          "ms": 300
+        },
+        {
+          "frame": 2,
+          "ms": 650
+        },
+        {
+          "frame": 1,
+          "ms": 180
+        },
+        {
+          "frame": 0,
+          "ms": 900
+        }
+      ]
+    },
+    "greystretch": {
+      "title": "灰套装 · 伸懒腰",
+      "file": "grey-kiss-stretch.png",
+      "frames": [
+        {
+          "x": 0,
+          "y": 0,
+          "width": 365,
+          "height": 512,
+          "footCenter": 245.0,
+          "headTop": 10,
+          "bottom": 502
+        },
+        {
+          "x": 365,
+          "y": 0,
+          "width": 343,
+          "height": 512,
+          "footCenter": 206.5,
+          "headTop": 11,
+          "bottom": 502
+        },
+        {
+          "x": 708,
+          "y": 0,
+          "width": 374,
+          "height": 512,
+          "footCenter": 215.5,
+          "headTop": 14,
+          "bottom": 502
+        },
+        {
+          "x": 1082,
+          "y": 0,
+          "width": 454,
+          "height": 512,
+          "footCenter": 191.0,
+          "headTop": 12,
+          "bottom": 502
+        },
+        {
+          "x": 0,
+          "y": 512,
+          "width": 365,
+          "height": 512,
+          "footCenter": 244.5,
+          "headTop": 4,
+          "bottom": 497
+        },
+        {
+          "x": 365,
+          "y": 512,
+          "width": 343,
+          "height": 512,
+          "footCenter": 218.5,
+          "headTop": 6,
+          "bottom": 497
+        },
+        {
+          "x": 708,
+          "y": 512,
+          "width": 374,
+          "height": 512,
+          "footCenter": 217.5,
+          "headTop": 10,
+          "bottom": 497
+        },
+        {
+          "x": 1082,
+          "y": 512,
+          "width": 454,
+          "height": 512,
+          "footCenter": 219.0,
+          "headTop": 4,
+          "bottom": 497
+        }
+      ],
+      "sequence": [
+        {
+          "frame": 4,
+          "ms": 200
+        },
+        {
+          "frame": 5,
+          "ms": 250
+        },
+        {
+          "frame": 6,
+          "ms": 400
+        },
+        {
+          "frame": 7,
+          "ms": 900
+        },
+        {
+          "frame": 6,
+          "ms": 300
+        },
+        {
+          "frame": 5,
+          "ms": 250
+        },
+        {
+          "frame": 4,
+          "ms": 300
+        }
+      ]
+    },
+    "greytyping": {
+      "title": "灰套装 · 打字和思考",
+      "file": "grey-work-v9.png",
+      "frames": [
+        {
+          "x": 0,
+          "y": 0,
+          "width": 512,
+          "height": 512,
+          "footCenter": 256,
+          "headTop": 0,
+          "bottom": 512
+        },
+        {
+          "x": 480,
+          "y": 0,
+          "width": 512,
+          "height": 512,
+          "footCenter": 256,
+          "headTop": 0,
+          "bottom": 512
+        },
+        {
+          "x": 960,
+          "y": 0,
+          "width": 512,
+          "height": 512,
+          "footCenter": 256,
+          "headTop": 0,
+          "bottom": 512
+        }
+      ],
+      "sequence": [
+        {
+          "frame": 0,
+          "ms": 150,
+          "phase": "typing"
+        },
+        {
+          "frame": 1,
+          "ms": 120,
+          "phase": "typing"
+        },
+        {
+          "frame": 2,
+          "ms": 190,
+          "phase": "typing"
+        },
+        {
+          "frame": 1,
+          "ms": 110,
+          "phase": "typing"
+        },
+        {
+          "frame": 0,
+          "ms": 160,
+          "phase": "typing"
+        },
+        {
+          "frame": 1,
+          "ms": 240,
+          "phase": "typing"
+        },
+        {
+          "frame": 2,
+          "ms": 130,
+          "phase": "typing"
+        },
+        {
+          "frame": 1,
+          "ms": 180,
+          "phase": "typing"
+        },
+        {
+          "frame": 0,
+          "ms": 120,
+          "phase": "typing"
+        },
+        {
+          "frame": 1,
+          "ms": 210,
+          "phase": "typing"
+        },
+        {
+          "frame": 0,
+          "ms": 1100,
+          "phase": "thinking"
+        },
+        {
+          "frame": 0,
+          "ms": 180,
+          "phase": "typing"
+        },
+        {
+          "frame": 1,
+          "ms": 140,
+          "phase": "typing"
+        },
+        {
+          "frame": 2,
+          "ms": 220,
+          "phase": "typing"
+        },
+        {
+          "frame": 1,
+          "ms": 120,
+          "phase": "typing"
+        },
+        {
+          "frame": 0,
+          "ms": 160,
+          "phase": "typing"
+        },
+        {
+          "frame": 1,
+          "ms": 190,
+          "phase": "typing"
+        },
+        {
+          "frame": 2,
+          "ms": 130,
+          "phase": "typing"
+        },
+        {
+          "frame": 1,
+          "ms": 240,
+          "phase": "typing"
+        },
+        {
+          "frame": 0,
+          "ms": 150,
+          "phase": "typing"
+        },
+        {
+          "frame": 1,
+          "ms": 110,
+          "phase": "typing"
+        },
+        {
+          "frame": 2,
+          "ms": 180,
+          "phase": "typing"
+        },
+        {
+          "frame": 1,
+          "ms": 220,
+          "phase": "typing"
+        },
+        {
+          "frame": 0,
+          "ms": 140,
+          "phase": "typing"
+        },
+        {
+          "frame": 1,
+          "ms": 170,
+          "phase": "typing"
+        },
+        {
+          "frame": 2,
+          "ms": 120,
+          "phase": "typing"
+        },
+        {
+          "frame": 1,
+          "ms": 210,
+          "phase": "typing"
+        },
+        {
+          "frame": 0,
+          "ms": 2400,
+          "phase": "thinking"
+        },
+        {
+          "frame": 0,
+          "ms": 220,
+          "phase": "typing"
+        },
+        {
+          "frame": 1,
+          "ms": 150,
+          "phase": "typing"
+        },
+        {
+          "frame": 2,
+          "ms": 170,
+          "phase": "typing"
+        },
+        {
+          "frame": 1,
+          "ms": 130,
+          "phase": "typing"
+        },
+        {
+          "frame": 0,
+          "ms": 200,
+          "phase": "typing"
+        },
+        {
+          "frame": 1,
+          "ms": 160,
+          "phase": "typing"
+        },
+        {
+          "frame": 0,
+          "ms": 3800,
+          "phase": "thinking"
+        },
+        {
+          "frame": 0,
+          "ms": 130,
+          "phase": "typing"
+        },
+        {
+          "frame": 1,
+          "ms": 190,
+          "phase": "typing"
+        },
+        {
+          "frame": 2,
+          "ms": 110,
+          "phase": "typing"
+        },
+        {
+          "frame": 1,
+          "ms": 160,
+          "phase": "typing"
+        },
+        {
+          "frame": 0,
+          "ms": 230,
+          "phase": "typing"
+        },
+        {
+          "frame": 1,
+          "ms": 140,
+          "phase": "typing"
+        },
+        {
+          "frame": 2,
+          "ms": 180,
+          "phase": "typing"
+        },
+        {
+          "frame": 1,
+          "ms": 120,
+          "phase": "typing"
+        },
+        {
+          "frame": 0,
+          "ms": 210,
+          "phase": "typing"
+        },
+        {
+          "frame": 1,
+          "ms": 150,
+          "phase": "typing"
+        },
+        {
+          "frame": 2,
+          "ms": 170,
+          "phase": "typing"
+        },
+        {
+          "frame": 1,
+          "ms": 130,
+          "phase": "typing"
+        },
+        {
+          "frame": 0,
+          "ms": 1800,
+          "phase": "thinking"
+        }
+      ]
+    },
+    "greychin": {
+      "title": "灰套装 · 托腮眨眼",
+      "file": "grey-work-v9.png",
+      "fixedBase": true,
+      "frames": [
+        {
+          "x": 0,
+          "y": 512,
+          "width": 512,
+          "height": 512,
+          "footCenter": 256,
+          "headTop": 0,
+          "bottom": 512
+        },
+        {
+          "x": 480,
+          "y": 512,
+          "width": 512,
+          "height": 512,
+          "footCenter": 256,
+          "headTop": 0,
+          "bottom": 512
+        },
+        {
+          "x": 960,
+          "y": 512,
+          "width": 512,
+          "height": 512,
+          "footCenter": 256,
+          "headTop": 0,
+          "bottom": 512
+        }
+      ],
+      "sequence": [
+        {
+          "frame": 0,
+          "ms": 3400
+        },
+        {
+          "frame": 1,
+          "ms": 80
+        },
+        {
+          "frame": 2,
+          "ms": 110
+        },
+        {
+          "frame": 1,
+          "ms": 80
+        },
+        {
+          "frame": 0,
+          "ms": 2300
+        }
+      ],
+      "blinkRegions": [
+        [
+          0.4765625,
+          0.3203125,
+          0.037109375,
+          0.03515625
+        ],
+        [
+          0.595703125,
+          0.306640625,
+          0.04296875,
+          0.037109375
+        ]
+      ],
+      "frameOffsets": [
+        0,
+        0,
+        0
+      ]
+    },
+    "greygrab": {
+      "title": "灰套装 · 站立到蜷缩",
+      "file": "grey-grab-v16.png",
+      "heightRatio": 1,
+      "frames": [
+        {
+          "x": 0,
+          "y": 0,
+          "width": 444,
+          "height": 444,
+          "footCenter": 222.0,
+          "headTop": 13,
+          "bottom": 436
+        },
+        {
+          "x": 444,
+          "y": 0,
+          "width": 443,
+          "height": 444,
+          "footCenter": 222.5,
+          "headTop": 13,
+          "bottom": 436
+        },
+        {
+          "x": 887,
+          "y": 0,
+          "width": 443,
+          "height": 444,
+          "footCenter": 223.5,
+          "headTop": 17,
+          "bottom": 440
+        },
+        {
+          "x": 1330,
+          "y": 0,
+          "width": 444,
+          "height": 444,
+          "footCenter": 224.0,
+          "headTop": 19,
+          "bottom": 442
+        },
+        {
+          "x": 0,
+          "y": 444,
+          "width": 444,
+          "height": 443,
+          "footCenter": 224.5,
+          "headTop": 20,
+          "bottom": 443
+        },
+        {
+          "x": 444,
+          "y": 444,
+          "width": 443,
+          "height": 443,
+          "footCenter": 225.0,
+          "headTop": 22,
+          "bottom": 445
+        },
+        {
+          "x": 887,
+          "y": 444,
+          "width": 443,
+          "height": 443,
+          "footCenter": 224.0,
+          "headTop": 21,
+          "bottom": 444
+        },
+        {
+          "x": 1330,
+          "y": 444,
+          "width": 444,
+          "height": 443,
+          "footCenter": 222.0,
+          "headTop": 20,
+          "bottom": 443
+        }
+      ],
+      "sequence": [
+        {
+          "frame": 0,
+          "ms": 75
+        },
+        {
+          "frame": 1,
+          "ms": 75
+        },
+        {
+          "frame": 2,
+          "ms": 75
+        },
+        {
+          "frame": 3,
+          "ms": 75
+        },
+        {
+          "frame": 4,
+          "ms": 75
+        },
+        {
+          "frame": 5,
+          "ms": 75
+        },
+        {
+          "frame": 6,
+          "ms": 230
+        },
+        {
+          "frame": 7,
+          "ms": 230
+        }
+      ],
+      "spiralEyes": [
+        null,
+        null,
+        [
+          [
+            194.5,
+            124.3
+          ],
+          [
+            246.4,
+            125.8
+          ]
+        ],
+        [
+          [
+            193.3,
+            123.4
+          ],
+          [
+            244.8,
+            125
+          ]
+        ],
+        [
+          [
+            194.4,
+            132.1
+          ],
+          [
+            244.2,
+            131.4
+          ]
+        ],
+        [
+          [
+            193.2,
+            131.9
+          ],
+          [
+            244,
+            131.5
+          ]
+        ],
+        [
+          [
+            193.8,
+            131.1
+          ],
+          [
+            244.8,
+            131.3
+          ]
+        ],
+        [
+          [
+            194.3,
+            131.7
+          ],
+          [
+            243.6,
+            132.4
+          ]
+        ]
+      ]
+    },
+    "idle": {
+      "title": "白袜碎花裙 · 待机眨眼",
+      "file": "daisy-socks-idle-wave-v31.png",
+      "frames": [
+        {
+          "x": 114,
+          "y": 0,
+          "width": 328,
+          "height": 512,
+          "footCenter": 164,
+          "headTop": 13,
+          "bottom": 499
+        },
+        {
+          "x": 441,
+          "y": 0,
+          "width": 328,
+          "height": 512,
+          "footCenter": 164,
+          "headTop": 13,
+          "bottom": 499
+        },
+        {
+          "x": 765,
+          "y": 0,
+          "width": 328,
+          "height": 512,
+          "footCenter": 164,
+          "headTop": 13,
+          "bottom": 499
+        },
+        {
+          "x": 114,
+          "y": 0,
+          "width": 328,
+          "height": 512,
+          "footCenter": 164,
+          "headTop": 13,
+          "bottom": 499
+        },
+        {
+          "x": 114,
+          "y": 512,
+          "width": 328,
+          "height": 512,
+          "footCenter": 164,
+          "headTop": 12,
+          "bottom": 498
+        },
+        {
+          "x": 441,
+          "y": 512,
+          "width": 328,
+          "height": 512,
+          "footCenter": 164,
+          "headTop": 12,
+          "bottom": 498
+        },
+        {
+          "x": 765,
+          "y": 512,
+          "width": 328,
+          "height": 512,
+          "footCenter": 164,
+          "headTop": 12,
+          "bottom": 498
+        },
+        {
+          "x": 1089,
+          "y": 512,
+          "width": 328,
+          "height": 512,
+          "footCenter": 164,
+          "headTop": 12,
+          "bottom": 498
+        }
+      ],
+      "sequence": [
+        {
+          "frame": 0,
+          "ms": 3500
+        },
+        {
+          "frame": 1,
+          "ms": 90
+        },
+        {
+          "frame": 2,
+          "ms": 100
+        },
+        {
+          "frame": 1,
+          "ms": 90
+        },
+        {
+          "frame": 3,
+          "ms": 1800
+        }
+      ],
+      "fixedBase": true,
+      "blinkRegions": [
+        [
+          0.4146341463414634,
+          0.248046875,
+          0.051829268292682924,
+          0.033203125
+        ],
+        [
+          0.5914634146341463,
+          0.24609375,
+          0.051829268292682924,
+          0.033203125
+        ]
+      ]
+    },
+    "sleep": {
+      "title": "粉色睡衣 · 盖薄被侧睡",
+      "file": "pink-sleep-blanket-v24.png",
+      "frames": [
+        {
+          "x": 0,
+          "y": 0,
+          "width": 887,
+          "height": 444,
+          "footCenter": 450,
+          "headTop": 20,
+          "bottom": 402
+        },
+        {
+          "x": 887,
+          "y": 0,
+          "width": 887,
+          "height": 444,
+          "footCenter": 432,
+          "headTop": 20,
+          "bottom": 402
+        },
+        {
+          "x": 0,
+          "y": 444,
+          "width": 887,
+          "height": 443,
+          "footCenter": 450,
+          "headTop": 24,
+          "bottom": 406
+        },
+        {
+          "x": 887,
+          "y": 444,
+          "width": 887,
+          "height": 443,
+          "footCenter": 432,
+          "headTop": 24,
+          "bottom": 406
+        }
+      ],
+      "sequence": [
+        {
+          "frame": 0,
+          "ms": 1200
+        },
+        {
+          "frame": 1,
+          "ms": 900
+        },
+        {
+          "frame": 2,
+          "ms": 1000
+        },
+        {
+          "frame": 3,
+          "ms": 2500
+        }
+      ],
+      "breath": {
+        "periodMs": 5600,
+        "inhaleMs": 2100,
+        "amplitude": 6,
+        "region": [
+          420,
+          145,
+          800,
+          400
+        ],
+        "runtimeHeightRatio": 0.4
+      }
+    }
+  }
+}

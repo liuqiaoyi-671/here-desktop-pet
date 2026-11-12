@@ -1,0 +1,11 @@
+#remote{position:absolute;width:210px;display:flex;flex-direction:column;align-items:center;gap:8px;font-family:-apple-system,"PingFang SC",sans-serif;pointer-events:none;color:#242424;font-size:13px}
+#remote>*{box-sizing:border-box}#remote-status,#remote-message{position:relative;isolation:isolate;text-align:center;overflow-wrap:anywhere;line-height:1.6;background:none;border:0;box-shadow:none}
+#remote-status{order:3;width:fit-content;min-width:112px;max-width:186px;padding:15px 22px;font-size:12px;transform:translateX(var(--head-offset,0px))}
+#remote-message{order:2;width:fit-content;min-width:144px;max-width:210px;padding:19px 22px 29px;font-size:13px;white-space:normal}
+#remote-status::before,#remote-message::before{content:'';position:absolute;inset:0;z-index:-1;background:url('bubbles/status.svg') center/100% 100% no-repeat;pointer-events:none}
+#remote-message::before{background-image:url('bubbles/speech.svg')}
+#remote.mirror #remote-message::before{transform:scaleX(-1)}
+#remote-message.fading{opacity:0;transition:opacity .7s}
+#remote-action{order:1;padding:5px 10px;border-radius:12px;background:white;border:1px solid #444;font-size:12px}
+#remote.below #remote-status{order:1}#remote.below #remote-action{order:3}#remote.below #remote-message::before{transform:scaleY(-1)}#remote.below.mirror #remote-message::before{transform:scale(-1,-1)}
+[hidden]{display:none!important}@media(prefers-reduced-motion:reduce){#remote-message.fading{transition:none}}

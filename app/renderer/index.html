@@ -1,0 +1,24 @@
+<!DOCTYPE html><html lang="zh-CN"><head><meta charset="UTF-8">
+<title>陪着你</title>
+<meta http-equiv="Content-Security-Policy" content="default-src 'self'; script-src 'self'; style-src 'self' 'unsafe-inline'; img-src 'self'; connect-src 'self'">
+<link rel="stylesheet" href="remote.css">
+<style>
+  html,body{margin:0;padding:0;background:transparent;overflow:hidden;
+    -webkit-user-select:none;user-select:none;cursor:default}
+  canvas{display:block}
+</style></head><body>
+<canvas id="c"></canvas>
+<canvas id="effects" aria-hidden="true" style="position:absolute;inset:0;pointer-events:none"></canvas>
+<div id="remote" aria-live="polite">
+  <div id="remote-status" hidden></div>
+  <div id="remote-message" hidden></div>
+  <div id="remote-action" hidden></div>
+</div>
+<script src="remote.js"></script>
+<script src="frame-actions.js"></script>
+<script src="pet-behavior.js"></script>
+<script src="dash-cutout.js"></script>
+<script src="pet-art-effects.js"></script>
+<script src="speech-bubble.js"></script>
+<script src="pet.js"></script>
+</body></html>
